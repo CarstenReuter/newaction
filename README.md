@@ -14,6 +14,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Use __Secrets__ and __Environments__ for staged deployments
 - Workflow templates and __reusable workflows__
 - 1
+- no build
 
 ## Getting ready
 
